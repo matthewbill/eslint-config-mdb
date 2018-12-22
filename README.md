@@ -1,6 +1,6 @@
 # eslint-mdb
 
-This package provides Matthew Bill's .eslintrc as an extensible shared config.
+This package provides Matthew Bill's .eslintrc as an extensible shared config. 
 
 ## Installation
 
